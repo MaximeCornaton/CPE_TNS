@@ -1,3 +1,3 @@
-**TSI**
+**TNS**
 
-Traitement et Synthèse d'Image
+Traitement Numérique du Signal
